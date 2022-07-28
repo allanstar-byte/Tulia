@@ -53,7 +53,7 @@ The contact box has a posting error which is intended to be fixed as soon as pos
 
 ## Link to the web Page
 
-allanstar-byte.github.io/chefcula-final/
+
 
 ## Support and contact details
 
