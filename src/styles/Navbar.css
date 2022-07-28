@@ -39,6 +39,14 @@
     font-family: 'Nunito', sans-serif;
 }
 
+
+/* .navbar link :hover {
+    background-color: #aa8c6e;
+    cursor: pointer;
+    transition: 0.3s ease-in;
+    color: #aa8c6e;
+} */
+
 .navbar .rightSide button {
     background-color: transparent;
     border: none;
