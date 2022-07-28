@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/http//allanstar-byte.github.io/Tulia/static/css/main.237d5858.css",
+    "main.js": "/http//allanstar-byte.github.io/Tulia/static/js/main.e1c34f7a.js",
+    "static/js/787.46fb8f97.chunk.js": "/http//allanstar-byte.github.io/Tulia/static/js/787.46fb8f97.chunk.js",
+    "static/media/About.png": "/http//allanstar-byte.github.io/Tulia/static/media/About.f382f0483eab620e798f.png",
+    "static/media/Landing.png": "/http//allanstar-byte.github.io/Tulia/static/media/Landing.87514494a892d06771b9.png",
+    "static/media/wakanda.jpeg": "/http//allanstar-byte.github.io/Tulia/static/media/wakanda.d2f672edf8fa8a00e565.jpeg",
+    "static/media/Contact.jpg": "/http//allanstar-byte.github.io/Tulia/static/media/Contact.b6c388fdbbbcd27180cd.jpg",
+    "static/media/Uzuri.jpeg": "/http//allanstar-byte.github.io/Tulia/static/media/Uzuri.58cd78523dee70a151e7.jpeg",
+    "static/media/kilemoni.jpeg": "/http//allanstar-byte.github.io/Tulia/static/media/kilemoni.f253f765392d84ace78d.jpeg",
+    "static/media/Peponi.jpg": "/http//allanstar-byte.github.io/Tulia/static/media/Peponi.b70e1776199eb7417720.jpg",
+    "static/media/Majengo.jpg": "/http//allanstar-byte.github.io/Tulia/static/media/Majengo.295ccb6318ac2b5ff90e.jpg",
+    "static/media/Mpembe.jpg": "/http//allanstar-byte.github.io/Tulia/static/media/Mpembe.ee48ceaeb3eb836cc654.jpg",
+    "static/media/Logo.png": "/http//allanstar-byte.github.io/Tulia/static/media/Logo.162d478b039fb4c415ea.png",
+    "index.html": "/http//allanstar-byte.github.io/Tulia/index.html",
+    "main.237d5858.css.map": "/http//allanstar-byte.github.io/Tulia/static/css/main.237d5858.css.map",
+    "main.e1c34f7a.js.map": "/http//allanstar-byte.github.io/Tulia/static/js/main.e1c34f7a.js.map",
+    "787.46fb8f97.chunk.js.map": "/http//allanstar-byte.github.io/Tulia/static/js/787.46fb8f97.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.237d5858.css",
+    "static/js/main.e1c34f7a.js"
+  ]
+}
