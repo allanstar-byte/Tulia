@@ -1,6 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import BannerImage from "../assets/pizza.jpeg";
+import BannerImage from "../assets/Landing.png";
 import "../styles/Home.css";
 
 function Home() {
@@ -12,8 +12,8 @@ function Home() {
         <
         div className = "headerContainer" >
         <
-        h1 > Breathtaking, Splendid, Wondrous < /h1> <
-        p > Tulia gives it all < /p> <
+        h1 > Oh, Hello There! < /h1> <
+        p > Welcome I 'm Tulia, Pleased to meet you < /p> <
         Link to = "/menu" >
         <
         button >
