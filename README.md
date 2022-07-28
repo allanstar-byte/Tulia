@@ -4,7 +4,7 @@ Welcome to my space friend !!!
 
 I'm Tulia and I will connect you with the best house dealers in town.
 
-My dedication is to help lovers of abiance and breathtaking environmentsin the world. Wait! And bring us together. 
+My dedication is to help lovers of ambiance and breathtaking environmentsin the world. Wait! And bring us together. 
 
 My developer gave me a female swahili name and I love it - Tulia, which means calm down
 
