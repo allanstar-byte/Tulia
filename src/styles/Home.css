@@ -23,25 +23,25 @@
     /* font-size: 30px; */
     height: 60px;
     /* font-weight: 50; */
-    color: black;
-    font-family: "HK Grotesk Bold";
+    color: #666;
+    font-family: 'Nunito', sans-serif;
 }
 
 .headerContainer p {
     padding: 0cm;
     /* font-size: 20px; */
     /* font-weight: lighter; */
-    color: black;
-    font-family: "HK Grotesk Medium";
+    color: #666;
+    font-family: 'Nunito', sans-serif;
 }
 
 .headerContainer button {
-    color: black;
+    color: #666;
     border: none;
     border-radius: 5px;
     cursor: pointer;
     justify-content: center;
-    background-color: #121619;
+    background-color: #666;
     height: 50px;
     width: 180px;
     color: white;
@@ -51,7 +51,7 @@
 }
 
 .headerContainer button:hover {
-    background-color: #07090a;
+    background-color: red;
     cursor: pointer;
     transition: 0.3s ease-in;
 }
@@ -79,10 +79,12 @@
         font-size: 40px;
         height: 30px;
         color: white;
+        font-family: 'Nunito', sans-serif;
     }
     .headerContainer p {
         font-size: 30px;
-        color: white;
+        color: #666;
+        font-family: 'Nunito', sans-serif;
     }
     .headerContainer button {
         background-color: white;
@@ -91,6 +93,6 @@
     }
     .headerContainer button:hover {
         background-color: rgb(225, 225, 225);
-        color: #121619;
+        color: red;
     }
 }

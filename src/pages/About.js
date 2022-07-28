@@ -1,33 +1,28 @@
 import React from "react";
-import MultiplePizzas from "../assets/multiplePizzas.jpeg";
+import AboutTulia from "../assets/About.png";
 import "../styles/About.css";
+
 function About() {
-  return (
-    <div className="about">
-      <div
-        className="aboutTop"
-        style={{ backgroundImage: `url(${MultiplePizzas})` }}
-      ></div>
-      <div className="aboutBottom">
-        <h1> ABOUT US</h1>
-        <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          mollitia, molestiae quas vel sint commodi repudiandae consequuntur
-          voluptatum laborum numquam blanditiis harum quisquam eius sed odit
-          fugiat iusto fuga praesentium optio, eaque rerum! Provident similique
-          accusantium nemo autem. Veritatis obcaecati tenetur iure eius earum ut
-          molestias architecto voluptate aliquam nihil, eveniet aliquid culpa
-          officia aut! Impedit sit sunt quaerat, odit, tenetur error, harum
-          nesciunt ipsum debitis quas aliquid. Reprehenderit, quia. Quo neque
-          error repudiandae fuga? Ipsa laudantium molestias eos sapiente
-          officiis modi at sunt excepturi expedita sint? Sed quibusdam
-          recusandae alias error harum maxime adipisci amet laborum.
-          Perspiciatis minima nesciunt dolorem! Officiis iure rerum voluptates a
-          cumque velit
-        </p>
-      </div>
-    </div>
-  );
+    return ( <
+        div className = "about" >
+        <
+        div className = "aboutTop"
+        style = {
+            { backgroundImage: `url(${AboutTulia})` }
+        } >
+        <
+        /div> <
+        div className = "aboutBottom" >
+        <
+        h1 > ABOUT US < /h1> <
+        p >
+        Tulia is landing ground
+        for anyone who needs to purchase a house
+        for a family, gift.You get to know the house of your choise before making a purchase.She brings the most ambient houses and breathtaking environments.Welcome to Tulia she is the best service provider. <
+        /p> < /
+        div > <
+        /div>
+    );
 }
 
 export default About;
