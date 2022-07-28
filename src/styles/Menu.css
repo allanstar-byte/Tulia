@@ -63,6 +63,11 @@
     font-size: small;
 }
 
+.menuItem #loc {
+    color: #666;
+    font-size: small;
+}
+
 @media only screen and (max-width: 1300px) {
     .menuList {
         grid-template-columns: 1fr 1fr;

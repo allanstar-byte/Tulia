@@ -29,7 +29,7 @@ function Navbar() {
         div className = "rightSide" >
         <
         Link to = "/" > Home < /Link> <
-        Link to = "/menu" > Menu < /Link> <
+        Link to = "/menu" > Dealers < /Link> <
         Link to = "/about" > About < /Link> <
         Link to = "/contact" > Contact < /Link> <
         button onClick = { toggleNavbar } >
