@@ -15,9 +15,14 @@ function Home() {
         h1 > Oh, Hello There! < /h1> <
         p > Welcome I 'm Tulia, Pleased to meet you < /p> <
         Link to = "/menu" >
+
+        <
+        div className = "bton" >
         <
         button >
         Let 's Roll < /button> < /
+        div > <
+        /
         Link > <
         /div> < /
         div >

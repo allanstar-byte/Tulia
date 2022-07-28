@@ -48,7 +48,14 @@
     text-decoration: none;
     font-size: 20px;
     font-family: 'Courier New', Courier, monospace;
+    margin-left: 50%;
+    /* margin-bottom: 50px; */
 }
+
+
+/* .bton button {
+    margin-bottom: 500px;
+} */
 
 .headerContainer button:hover {
     background-color: #aa8c6e;
@@ -86,13 +93,13 @@
         color: #666;
         font-family: 'Nunito', sans-serif;
     }
-    .headerContainer button {
+    .headerContainer #bton {
         background-color: white;
-        color: #121619;
-        margin-bottom: 30px;
+        color: #666;
     }
-    .headerContainer button:hover {
+    .headerContainer button :hover {
         background-color: rgb(225, 225, 225);
-        color: red;
+        color: #aa8c6e;
+        margin-bottom: 500px;
     }
 }
