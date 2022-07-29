@@ -17,27 +17,28 @@ function Navbar() {
         id = { openLinks ? "open" : "close" } >
         <
         img src = { Logo }
-        /> <
+        alt = "log" / >
+        <
         div className = "hiddenLinks" >
         <
-        Link to = "/" > Home < /Link> <
-        Link to = "/menu" > Dealers < /Link> <
-        Link to = "/about" > About < /Link> <
-        Link to = "/contact" > Contact < /Link> < /
-        div > <
+        Link to = "/" > Home < /Link> <Link to="/menu
+        "> Dealers </Link> <
+        Link to = "/about" > About < /Link> <Link to="/contact
+        "> Contact </Link> <
+        /div> <
         /div> <
         div className = "rightSide" >
         <
-        Link to = "/" > Home < /Link> <
-        Link to = "/menu" > Dealers < /Link> <
-        Link to = "/about" > About < /Link> <
-        Link to = "/contact" > Contact < /Link> <
+        Link to = "/" > Home < /Link> <Link to="/menu
+        "> Dealers </Link> <
+        Link to = "/about" > About < /Link> <Link to="/contact
+        "> Contact </Link> <
         button onClick = { toggleNavbar } >
         <
         ReorderIcon / >
         <
-        /button> < /
-        div > <
+        /button> <
+        /div> <
         /div>
     );
 }
