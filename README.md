@@ -19,7 +19,7 @@ This application is intented - based on its first phase, to provide a:
         2. Dealers Page
         3. About Page
         4. Contact Page
-        5. A copyright message at the bottom
+        
 
 The first phase will be has dealer name, images of the house, value of the house in dolars. This application should as well accomodate videos, live recordings, Likes, Share and comment button, rate/review section and a proper conntact box
 
