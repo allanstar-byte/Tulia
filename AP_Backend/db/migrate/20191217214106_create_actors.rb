@@ -1,6 +1,6 @@
-class CreateActors < ActiveRecord::Migration[6.1]
+class CreateOwners < ActiveRecord::Migration[6.1]
   def change
-    create_table :actors do |t|
+    create_table :owners do |t|
       t.string :name
       
     end

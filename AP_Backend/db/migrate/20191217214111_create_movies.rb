@@ -1,8 +1,7 @@
-class CreateMovies < ActiveRecord::Migration[6.1]
+class CreateHouses < ActiveRecord::Migration[6.1]
   def change
-    create_table :movies do |t|
-      t.string :title
-      t.integer :box_office_earnings
+    create_table :houses do |t|
+      t.string :name
 
     end
   end
